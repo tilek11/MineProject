@@ -1,5 +1,7 @@
 # MineProject
 
+## Solo project 
+
 ### Adding main arrays and indexing cages
 <img src="images/Снимок%20экрана%20(33).png">
 
