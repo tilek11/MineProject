@@ -1,6 +1,7 @@
 # MineProject
 
 ## Solo project 
+## Presentation link: https://docs.google.com/presentation/d/1-EDk8QsnSfEwl71WSDyeJvI2832w7k6AKI3ZF2asg60/edit?usp=sharing
 
 ### Adding main arrays and indexing cages
 <img src="images/Снимок%20экрана%20(33).png">
